@@ -1,0 +1,12 @@
+.body{
+    background-color: red;
+}
+
+svg{
+    width: 1rem;
+    height: 1rem;
+}
+
+.full-image{
+    width: 26rem;
+}
